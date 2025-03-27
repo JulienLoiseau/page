@@ -17,7 +17,7 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "/page/" # the base hostname & protocol for your site
 cover: "/assets/header_image_2.png"
 logo: "/assets/logo.png"
 
